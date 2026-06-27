@@ -18,4 +18,4 @@ export const COLLECTION = "dltv_submissions";
 
 // ตั้งเป็น true เพื่อทดสอบระบบแบบไม่ต่อ Firebase (บันทึกลงเครื่องชั่วคราว/ดาวน์โหลด JSON)
 // ตั้งเป็น false เมื่อกรอกค่า firebaseConfig ด้านบนเรียบร้อยและพร้อมใช้งานจริง
-export const OFFLINE_MODE = true;
+export const OFFLINE_MODE = false;
