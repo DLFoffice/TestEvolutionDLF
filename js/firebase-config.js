@@ -5,12 +5,12 @@
 // ============================================================
 
 export const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyClGVb-JamhIV9PvqWPBwMlrIBSDNjvUCY",
+  authDomain: "dataform-38690.firebaseapp.com",
+  projectId: "dataform-38690",
+  storageBucket: "dataform-38690.firebasestorage.app",
+  messagingSenderId: "395560547219",
+  appId: "1:395560547219:web:6d0efb2866a56833ffee66"
 };
 
 // ชื่อ collection หลักใน Firestore ที่ใช้เก็บข้อมูลทุกแบบฟอร์ม
